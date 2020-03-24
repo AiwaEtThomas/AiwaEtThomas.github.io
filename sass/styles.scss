@@ -293,7 +293,7 @@ Hero
 }
 .fixed {
   position: fixed;
-  background-color: rgba(55, 36, 40, .88);
+  background-color: rgba(29, 69, 105, 0.88);
   z-index: 999;
   width: 100%;
 }
@@ -899,3 +899,12 @@ body.modal-open {
 .modal-body {
   padding:25px;
 }
+
+
+html, body {
+  background: #1D4569;
+  height: 100%;
+  width: 100%;
+}
+
+
